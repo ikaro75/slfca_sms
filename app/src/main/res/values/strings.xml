@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ahórrate una luz / SMS</string>
+
+    <string name="hello_world">Ahórrate una luz</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_validate_data">Validación de datos</string>
+</resources>
